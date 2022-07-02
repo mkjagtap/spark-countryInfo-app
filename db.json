@@ -1,0 +1,109 @@
+{
+    "countries": [
+        {
+          "id": 1,
+          "country": "India",
+          "population": "1.5 bilion",
+          "head of state": "Kovind",
+          "language": "Hindi"
+        },
+        {
+          "id": 2,
+          "country": "Nepal",
+          "population": "3 million",
+          "head of state": "Bapu",
+          "language": "Nepali"
+        },
+        {
+          "id": 3,
+          "country": "South Africa",
+          "population": "9 million",
+          "head of state": "Sada bhau",
+          "language": "English"
+        },
+        {
+          "id": 4,
+          "country": "United Kingdom",
+          "population": "12 million",
+          "head of state": "Eknath Shinde",
+          "language": "English"
+        },
+        {
+          "id": 5,
+          "country": "Irland",
+          "population": "3 million",
+          "head of state": "Aaba",
+          "language": "Irish"
+        },
+        {
+          "id": 6,
+          "country": "France",
+          "population": "8 million",
+          "head of state": "Raj Thakre",
+          "language": "French"
+        },
+        {
+          "id": 7,
+          "country": "China",
+          "population": "140.21 cr",
+          "head of state": "Xi Jinping",
+          "language": "Mandarin"
+        },
+        {
+          "id": 8,
+          "country": "Egypt",
+          "population": "10.23 crores",
+          "head of state": "Abdel Fattah Saeed",
+          "language": "Arabic"
+        },
+        {
+          "id": 9,
+          "country": "Cairo",
+          "population": "95.4 lakhs",
+          "head of state": "Abdel Fattah el-Sisi",
+          "language": "Egyptian Arabic"
+        },
+        {
+          "id": 10,
+          "country": "Netherlands",
+          "population": "17 lakhs",
+          "head of state": "Mark Rutte",
+          "language": "Dutch"
+        },
+        {
+          "id": 11,
+          "country": "USA",
+          "population": "35 cr",
+          "head of state": "Joe Biden",
+          "language": "English"
+        },
+        {
+          "id": 12,
+          "country": "Germany",
+          "population": "84.17 Million",
+          "head of state": "Frank-Walter Steinmeier",
+          "language": "German"
+        },
+        {
+          "id": 13,
+          "country": "Sri Lanka",
+          "population": "21 millions",
+          "head of state": "Gotabaya Rajapaksa",
+          "language": "Sinhala"
+        },
+        {
+          "id": 14,
+          "country": "Bhutan",
+          "population": "7.72 lakhs",
+          "head of state": "Dzongkha",
+          "language": "Dzongkha"
+        },
+        {
+          "id": 15,
+          "country": "Italy",
+          "population": "12 million",
+          "head of state": "Udhav Thakre",
+          "language": "Italian"
+        }
+      ]
+}
